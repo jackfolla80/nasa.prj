@@ -3,6 +3,7 @@ const launchesData = require('./launches.mongo');
 
 const launches = new Map();
 let latestFlightNumber = 100;
+//oggetto launch
 
 const launch = {
 
